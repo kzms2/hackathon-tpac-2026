@@ -10,7 +10,7 @@ An 8-bit retro NES-style quiz game that dynamically extracts quizzes from any W3
 
 ### Quick Demo
 
-[Quick Demo](easy-demo.html) - Try an interactive demo in your browser.
+[Quick Demo](https://kzms2.github.io/hackathon-tpac-2026/easy-demo.html) - Try an interactive demo in your browser.
 
 ### Installation Steps
 
