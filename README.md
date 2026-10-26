@@ -8,9 +8,11 @@ An 8-bit retro NES-style quiz game that dynamically extracts quizzes from any W3
 - Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari.
 - [Tampermonkey extension](https://www.tampermonkey.net/) installed in your browser.
 
-### Quick Demo
+### Demos & Presentation
 
-[Quick Demo](https://kzms2.github.io/hackathon-tpac-2026/easy-demo.html) - Try an interactive demo in your browser.
+- **Interactive Demo:** [Quick Demo](https://kzms2.github.io/hackathon-tpac-2026/easy-demo.html) - Try an interactive demo in your browser.
+- **Demo Video:** Watch the [Demo Video](https://kzms2.github.io/hackathon-tpac-2026/hackathon2026demo.mp4) to see the script in action.
+- **Presentation Slides:** Check out the [Presentation Slides](https://kzms2.github.io/hackathon-tpac-2026/hackathon2026demo.mp4) for project overview and details.
 
 ### Installation Steps
 
